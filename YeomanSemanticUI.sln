@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YeomanSemanticUI", "YeomanSemanticUI.csproj", "{BC3D4235-8853-4032-B593-4DB3B4F828C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC3D4235-8853-4032-B593-4DB3B4F828C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3D4235-8853-4032-B593-4DB3B4F828C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3D4235-8853-4032-B593-4DB3B4F828C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3D4235-8853-4032-B593-4DB3B4F828C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDA4DAF5-0226-4BB7-8E50-C190F2035242}
+	EndGlobalSection
+EndGlobal
